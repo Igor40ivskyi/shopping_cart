@@ -1,7 +1,6 @@
 import {Routes, Route} from "react-router-dom";
 import {Container} from "react-bootstrap";
 import {Home} from "./pages/Home.tsx";
-import React from "react";
 import {About} from "./pages/About.tsx";
 import {Store} from "./pages/Store.tsx";
 import {Navbar} from "./components/Navbar.tsx";
