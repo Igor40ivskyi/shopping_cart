@@ -22,5 +22,41 @@
     "name": "Car",
     "price": 14000,
     "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id":5 ,
+    "name": "Burger",
+    "price": 5.55,
+    "imgUrl": "/imgs/burger.png"
+  },
+  {
+    "id":6 ,
+    "name": "Cucumber",
+    "price":2.90 ,
+    "imgUrl": "/imgs/cucumber.png"
+  },
+  {
+    "id":7 ,
+    "name": "Lasagna",
+    "price": 9.85,
+    "imgUrl": "/imgs/lasagna.png"
+  },
+  {
+    "id": 8,
+    "name": "Phone",
+    "price": 55,
+    "imgUrl": "/imgs/phone.png"
+  },
+  {
+    "id":10 ,
+    "name": "Ticket",
+    "price": 3.94,
+    "imgUrl": "/imgs/ticket.png"
+  },
+  {
+    "id": 11,
+    "name": "Pudding",
+    "price": 8.75,
+    "imgUrl": "/imgs/pudding.png"
   }
 ]
